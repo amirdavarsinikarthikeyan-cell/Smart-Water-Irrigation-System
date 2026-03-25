@@ -1,6 +1,6 @@
 # Smart-Water-Irrigation-System
-Name : Amirdavarsini :
-Register No: 922525106018 :
+Name : Amirdavarsini 
+Register No: 922525106018 
 Department : ECE     
 
 Smart Water Irrigation System is a technology-driven project designed to optimize water usage in agriculture. The system uses soil moisture sensors to continuously monitor the water content in the soil and automatically control the irrigation process.
